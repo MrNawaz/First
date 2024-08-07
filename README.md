@@ -1,2 +1,2 @@
 # First
-Started learning Git
+Started learning Git and Github
